@@ -1,0 +1,7 @@
+C:\Users\sande\OneDrive\Desktop\Dot Net\Assignment-1\Assignment-1\bin\Debug\Assignment-1.exe.config
+C:\Users\sande\OneDrive\Desktop\Dot Net\Assignment-1\Assignment-1\bin\Debug\Assignment-1.exe
+C:\Users\sande\OneDrive\Desktop\Dot Net\Assignment-1\Assignment-1\bin\Debug\Assignment-1.pdb
+C:\Users\sande\OneDrive\Desktop\Dot Net\Assignment-1\Assignment-1\obj\Debug\Assignment-1.csprojAssemblyReference.cache
+C:\Users\sande\OneDrive\Desktop\Dot Net\Assignment-1\Assignment-1\obj\Debug\Assignment-1.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Desktop\Dot Net\Assignment-1\Assignment-1\obj\Debug\Assignment-1.exe
+C:\Users\sande\OneDrive\Desktop\Dot Net\Assignment-1\Assignment-1\obj\Debug\Assignment-1.pdb
